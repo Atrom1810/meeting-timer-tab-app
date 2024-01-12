@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meeting-timer-tab-app/static/css/main.ea9a5444.css",
+    "main.js": "/meeting-timer-tab-app/static/js/main.6c903a3c.js",
+    "static/js/787.db7b36d8.chunk.js": "/meeting-timer-tab-app/static/js/787.db7b36d8.chunk.js",
+    "index.html": "/meeting-timer-tab-app/index.html",
+    "main.ea9a5444.css.map": "/meeting-timer-tab-app/static/css/main.ea9a5444.css.map",
+    "main.6c903a3c.js.map": "/meeting-timer-tab-app/static/js/main.6c903a3c.js.map",
+    "787.db7b36d8.chunk.js.map": "/meeting-timer-tab-app/static/js/787.db7b36d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea9a5444.css",
+    "static/js/main.6c903a3c.js"
+  ]
+}
